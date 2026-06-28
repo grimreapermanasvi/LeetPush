@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/grimreapermanasvi/LeetPush/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/grimreapermanasvi/LeetPush/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0219-contains-duplicate-ii](https://github.com/grimreapermanasvi/LeetPush/tree/master/0219-contains-duplicate-ii) |
+| [0228-summary-ranges](https://github.com/grimreapermanasvi/LeetPush/tree/master/0228-summary-ranges) |
 ## Dynamic Programming
 |  |
 | ------- |
