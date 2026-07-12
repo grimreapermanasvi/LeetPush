@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/grimreapermanasvi/LeetPush/tree/master/0016-3sum-closest) |
 | [0119-pascals-triangle-ii](https://github.com/grimreapermanasvi/LeetPush/tree/master/0119-pascals-triangle-ii) |
 | [0120-triangle](https://github.com/grimreapermanasvi/LeetPush/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/grimreapermanasvi/LeetPush/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -38,9 +39,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/grimreapermanasvi/LeetPush/tree/master/0016-3sum-closest) |
 | [0455-assign-cookies](https://github.com/grimreapermanasvi/LeetPush/tree/master/0455-assign-cookies) |
 ## Sorting
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/grimreapermanasvi/LeetPush/tree/master/0016-3sum-closest) |
 | [0455-assign-cookies](https://github.com/grimreapermanasvi/LeetPush/tree/master/0455-assign-cookies) |
 <!---LeetCode Topics End-->
