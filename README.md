@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/grimreapermanasvi/LeetPush/tree/master/0219-contains-duplicate-ii) |
 | [0228-summary-ranges](https://github.com/grimreapermanasvi/LeetPush/tree/master/0228-summary-ranges) |
 | [0455-assign-cookies](https://github.com/grimreapermanasvi/LeetPush/tree/master/0455-assign-cookies) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/grimreapermanasvi/LeetPush/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -64,4 +65,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/grimreapermanasvi/LeetPush/tree/master/0003-longest-substring-without-repeating-characters) |
+## Math
+|  |
+| ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/grimreapermanasvi/LeetPush/tree/master/1979-find-greatest-common-divisor-of-array) |
+## Number Theory
+|  |
+| ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/grimreapermanasvi/LeetPush/tree/master/1979-find-greatest-common-divisor-of-array) |
 <!---LeetCode Topics End-->
