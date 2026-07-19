@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/grimreapermanasvi/LeetPush/tree/master/0005-longest-palindromic-substring) |
 | [0045-jump-game-ii](https://github.com/grimreapermanasvi/LeetPush/tree/master/0045-jump-game-ii) |
 | [0119-pascals-triangle-ii](https://github.com/grimreapermanasvi/LeetPush/tree/master/0119-pascals-triangle-ii) |
 | [0120-triangle](https://github.com/grimreapermanasvi/LeetPush/tree/master/0120-triangle) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/grimreapermanasvi/LeetPush/tree/master/0005-longest-palindromic-substring) |
 | [0016-3sum-closest](https://github.com/grimreapermanasvi/LeetPush/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/grimreapermanasvi/LeetPush/tree/master/0018-4sum) |
 | [0455-assign-cookies](https://github.com/grimreapermanasvi/LeetPush/tree/master/0455-assign-cookies) |
@@ -66,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/grimreapermanasvi/LeetPush/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/grimreapermanasvi/LeetPush/tree/master/0005-longest-palindromic-substring) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/grimreapermanasvi/LeetPush/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Math
 |  |
