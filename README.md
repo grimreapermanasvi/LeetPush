@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/grimreapermanasvi/LeetPush/tree/master/0005-longest-palindromic-substring) |
 | [0006-zigzag-conversion](https://github.com/grimreapermanasvi/LeetPush/tree/master/0006-zigzag-conversion) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/grimreapermanasvi/LeetPush/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [3499-maximize-active-section-with-trade-i](https://github.com/grimreapermanasvi/LeetPush/tree/master/3499-maximize-active-section-with-trade-i) |
 ## Math
 |  |
 | ------- |
@@ -87,4 +88,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/grimreapermanasvi/LeetPush/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+## Enumeration
+|  |
+| ------- |
+| [3499-maximize-active-section-with-trade-i](https://github.com/grimreapermanasvi/LeetPush/tree/master/3499-maximize-active-section-with-trade-i) |
 <!---LeetCode Topics End-->
